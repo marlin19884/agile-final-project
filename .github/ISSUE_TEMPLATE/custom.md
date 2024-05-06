@@ -1,27 +1,16 @@
----
-### name: agile-final-project issue template
+**En tant que** 
 
-*As a ** 
-user
+**j'ai besoin de**  
 
-**I need ** 
-the counter can be reset to the beginning
-
-**So that**
-
-user can be able to restarted count to zero
+**pour  preparer** 
 
 ###Details and assumptions
-
-We will use a single affectation
-
 
 ###acceptance criteria
 
 ' ' ' gherkin
-Give   i have incremented the counter to 2
-when   i reset the service
-Then   the counter should return 0
-' ' '
+**Étant donné** 
 
+**Quand** 
 
+**Alors** 
